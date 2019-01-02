@@ -1,3 +1,15 @@
+// This is a comment, anything after a double // is a comment
+
+/*
+But this is also a comment
+and is used for long sentences or commenting out code that you don't
+want to use but don't want to get rid of either. 
+*/
+
+
+
+
+
 #include <iostream> //This gives you premade code that allows you to input and output to your computer and/or devices
 // for instance iostream allows you to use functions like cout and endl
 
