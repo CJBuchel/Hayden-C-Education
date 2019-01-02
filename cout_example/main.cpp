@@ -20,7 +20,7 @@ want to use but don't want to get rid of either.
 using namespace std; // this means to use all standards in writing.
 // namespace std, just makes it faster to write. or else you would have to write std::cout or std:: something 
 // for every namespace.
-main(){ // main is where the main code is placed between the two curly brackets {}
+int main(){ // main is where the main code is placed between the two curly brackets {}
     cout << "Hello Hayden"; // cout (c-out) means to output to the nearest consol aplication. in this case it's
     // outputing a sentence.
     cout << endl; // this outputs to the consol and end's the line, like pressing enter in a document

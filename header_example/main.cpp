@@ -6,7 +6,7 @@
 
 using namespace std;
 
-main(){
+int main(){
     cout << num; // in this case the above mentioned value is num. which has a value of 10
     // so what this is actually saying is output to the consol the number 10
     cout << endl;
